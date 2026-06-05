@@ -32,3 +32,52 @@ If tests failed, the plan would be to update cart.js and run npm test again.
 
 ## Step 11: Push to GitHub
 I committed the project and pushed it to GitHub.
+
+## Repository Setup and Clone Workflow
+
+The assignment instructions required creating a GitHub repository and cloning it locally.
+
+Repository Name:
+practice-writing-unitTests-Christopher-H
+
+Typical workflow used for this assignment:
+
+1. Create a public GitHub repository.
+2. Clone the repository to the local machine.
+
+Example command:
+
+git clone https://github.com/chrismusic1325/-practice-writing-unitTests--Christopher---H-.git
+
+3. Navigate into the project folder.
+
+Example:
+
+cd shopping-cart
+
+4. Initialize the Node.js project.
+
+npm init -y
+
+5. Install Jest.
+
+npm install --save-dev jest
+
+6. Create cart.js.
+
+7. Create tests/cart.test.js.
+
+8. Write positive, negative, and edge case tests.
+
+9. Run tests using:
+
+npm test
+
+10. Commit and push changes.
+
+git add .
+git commit -m "Complete shopping cart assignment"
+git push
+
+Note:
+For this project the repository was connected to GitHub and pushed successfully. The workflow above documents the standard clone process required by the assignment.
