@@ -1,0 +1,24 @@
+{
+  "name": "shopping-cart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrismusic1325/-practice-writing-unitTests--Christopher---H-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/chrismusic1325/-practice-writing-unitTests--Christopher---H-/issues"
+  },
+  "homepage": "https://github.com/chrismusic1325/-practice-writing-unitTests--Christopher---H-#readme",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
